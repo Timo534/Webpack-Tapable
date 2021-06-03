@@ -1,0 +1,22 @@
+{
+  "name": "webpack-tapable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "server": "webpack-dev-server --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "tapable": "^2.2.0"
+  }
+}
